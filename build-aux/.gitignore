@@ -1,0 +1,13 @@
+# Autotools
+/config.guess
+/config.h.in
+/config.log
+/config.sub
+/config.status
+/configure
+/depcomp
+/install-sh
+/missing
+/compile
+/ltmain.sh
+/aclocal.m4
